@@ -1,0 +1,14 @@
+.category{
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+.coding_img{
+    display: flex;
+    justify-content: center;
+  }
+.coding{
+    background-color: #003366 ;
+  }
